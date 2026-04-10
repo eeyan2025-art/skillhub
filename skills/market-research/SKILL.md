@@ -1,6 +1,13 @@
 ---
 name: market-research
-description: 生成专业的市场规模调研报告，包含TAM/SAM/SOM三层方法论框架、3年/5年CAGR复合增长率、多来源数据交叉验证（Gartner/Forrester/IDC/McKinsey等）、可视化图表与完整HTML报告。当用户提及"市场规模"、"市场调研"、"TAM"、"SAM"、"SOM"、"行业报告"、"市场分析"、"CAGR"、"可及市场"，或要求分析某个行业/产品/技术的市场机会时，必须触发本技能。即使用户没有明确说"市场调研报告"，只要涉及行业市场估算、竞争格局分析、市场进入策略等，也应主动使用本技能。
+description: 生成专业的市场规模调研报告，包含TAM/SAM/SOM三层方法论框架、3年/5年CAGR复合增长率、多来源数据交叉验证（Gartner/Forrester/IDC/McKinsey等）、可视化图表与完整HTML报告。
+
+**触发条件（显式命令）：**
+用户发送 `iskill2 关键词 URL` 时触发。例如：
+- `iskill2 市场调研 https://example.com/article`
+- `iskill2 市场规模 任意URL`
+
+**不使用自动触发。** 仅当用户明确输入 iskill2 命令时执行。
 ---
 
 # 市场规模调研报告技能
