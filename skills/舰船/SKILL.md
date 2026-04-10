@@ -1,6 +1,6 @@
 ---
 name: 舰船
-description: 美国海军得梅因级重巡洋舰知识。触发条件：用户询问得梅因级巡洋舰、203mm舰炮、火炮巡洋舰巅峰、美国重巡洋舰、二战后的火炮巡洋舰等。
+description: 美国海军舰船知识库。触发条件：用户询问美国军舰、巡洋舰、巡逻舰、Heritage-class OPC等相关舰船知识。
 ---
 
 # 舰船 — 得梅因级重巡洋舰
@@ -125,7 +125,59 @@ Mk-16是**全球首款大口径自动装填舰炮**：
 
 ---
 
+---
+
+# 附录：美国传承级近海巡逻舰（Heritage-class OPC）
+
+> 来源：Bilibili 视频「项目虽小 五毒俱全：美国延期6年的传承级近海巡逻舰」
+> 视频URL：https://www.bilibili.com/video/BV1y4kNBtEFD
+
+## 一句话总结
+
+**传承级（Heritage-class）是美国海岸警卫队的新型近海巡逻舰，用于取代老旧的270英尺和210英尺中耐力巡逻舰，建造方包括 Eastern Shipbuilding 和 Austal USA。**
+
+---
+
+## 背景：为什么需要 OPC？
+
+美国海岸警卫队现有的**29艘中耐力巡逻舰**（270英尺和210英尺级）已严重老化，传承级近海巡逻舰（Offshore Patrol Cutter, OPC）项目应运而生。
+
+## 项目特点
+
+| 项目 | 说明 |
+|------|------|
+| 舰长 | **341英尺**（约104米）设计，后续阶段可能更长 |
+| 建造方 | Eastern Shipbuilding Group + Austal USA |
+| 目的 | 取代海岸警卫队老旧的中耐力巡逻舰 |
+| 预期舰数 | 多艘（具体数量视预算而定） |
+| 首舰开工 | 2019年1月 |
+
+## 主要任务
+
+- 维护国家经济、社会、环境、军事安全
+- 海上执法
+- 禁毒
+- 国土安全
+- 搜索救援
+
+## 延期与问题
+
+该项目的建造过程遭遇了严重的延期问题：
+
+- **Eastern Shipbuilding 财务困难**：2024-2025年因项目条件和经济压力暂停工作、裁员
+- **传动轴问题**：首舰 OPC-1 出现传动轴问题，可能影响交付
+- **建造延误**：全国性工人短缺导致海岸警卫队舰船项目普遍延误
+
 ## 相关链接
+
+- 视频：https://www.bilibili.com/video/BV1y4kNBtEFD
+- Wikipedia：https://en.wikipedia.org/wiki/Heritage-class_cutter
+- US Coast Guard Offshore Patrol Cutter 官方资料
+- GAO 报告：GAO-26-107583
+
+---
+
+## 相关链接（得梅因级）
 
 - 视频：https://www.bilibili.com/video/BV1nVDZB4EXb
 - Wikipedia：https://en.wikipedia.org/wiki/USS_Des_Moines_(CA-134)
